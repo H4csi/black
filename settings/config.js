@@ -1,9 +1,9 @@
 /*
   >> Control <<
 */
-global.owner = ['6285758478019']
-global.ownername = "WennZ"
-global.connect = true //Ubah ke false kalo mau connect lewat QR
+global.owner = ['6285724125709']
+global.ownername = "kenan"
+global.connect = false //Ubah ke false kalo mau connect lewat QR
 global.prefix = '.'
 
 /*
